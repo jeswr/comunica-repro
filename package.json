@@ -86,6 +86,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@comunica/query-sparql-link-traversal": "^0.5.0"
+    "@comunica/query-sparql-link-traversal": "^0.6.1"
   }
 }
